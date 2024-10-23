@@ -1,0 +1,7 @@
+# Only Include C Files
+*
+
+!*.c
+!**/*.c
+
+!README.md
